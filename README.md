@@ -39,12 +39,13 @@ int main() {
     cout << "Addition of 3 integers: " << add(1, 2, 3) << endl;
     return 0;
 }
-}
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/57827789-7824-4fb1-9e42-056b3b68e9bf)
 
-## Program 2: 
+
+## Program 2: Operation Overloading
 <strong> Code: </strong>
 <br>
 ```cpp
@@ -89,10 +90,11 @@ int main() {
     c3.display();
     return 0;
 }
-}
 ```
 <strong> Output: </strong>
 <br>
+![image](https://github.com/user-attachments/assets/c986dbf2-81e0-4d1a-9020-a9f107c8af88)
+
 
 ## Conclusion:
 We learned how to use operator overloading to add two complex numbers using the + operator in a user-defined way.
